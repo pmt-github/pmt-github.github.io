@@ -1,0 +1,23 @@
+html{
+	font-family: 'Montserrat Alternates', sans-serif;
+}
+h1{
+	margin: 0;
+	text-align: center;
+	font-size: 50px;
+	text-shadow: -30px -15px 3px red;
+}
+
+body{
+	margin:0 150px;
+	font-size:22px;
+}
+
+#p123{
+	padding: 10px 20px 40px 20px;
+	background-color: #BFAC3F;
+	border:10px purple solid;
+	margin:0 150px;
+	line-height: ;
+	letter-spacing: ;
+}
